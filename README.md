@@ -25,15 +25,15 @@ A Java-based framework for automating web UI testing using [Selenium](https://ww
 
 2.  Navigate to the project directory:
 
-bash: cd WEB-UI_AUTOMATION
+      bash: cd WEB-UI_AUTOMATION
 
 3.  Build the project using Maven:
 
-bash: mvn clean install
+      bash: mvn clean install
 
 4.  Run tests using Maven:
 
-bash:mvn test
+      bash:mvn test
 
 5.  Example Test
 Here's an example of a simple test case:
