@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/6261056/screenshots/14660465/media/a608639b24d21d75eae965deb1a9f797.gif)
+![MasterHead](https://digitalmarketingtrends.in/wp-content/uploads/2018/03/Automate-Your-Marketing-Processes-GIFs.gif)
 # WEB-UI_AUTOMATION
 This repository contains a collection of automated tests for web applications using Selenium WebDriver with Java. The goal is to ensure the reliability and functionality of web interfaces through comprehensive automated testing.
 
